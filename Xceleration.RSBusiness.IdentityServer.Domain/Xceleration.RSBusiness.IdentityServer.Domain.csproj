@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="AzureAd\" />
+    <Folder Include="Caches\" />
+    <Folder Include="ExtensionGrants\" />
+    <Folder Include="CustomRequest\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Duende.IdentityServer" Version="6.0.4" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="6.0.4" />
+    <PackageReference Include="Duende.IdentityServer.Storage" Version="6.0.4" />
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="RewardStation.Utility.KeyVault" Version="1.1.27" />
+    <PackageReference Include="Sustainsys.Saml2.AspNetCore2" Version="2.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Xceleration.RsBusiness.AzureKeyVault\Xceleration.RsBusiness.AzureKeyVault.csproj" />
+    <ProjectReference Include="..\Xceleration.RSBusiness.IdentityServer.Contracts\Xceleration.RSBusiness.IdentityServer.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

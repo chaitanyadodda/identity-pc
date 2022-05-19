@@ -1,0 +1,449 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer\\Xceleration.RSBusiness.IdentityServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj",
+        "projectName": "Xceleration.RsBusiness.AzureKeyVault",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RewardStation.Utility.KeyVault": {
+              "target": "Package",
+              "version": "[1.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj",
+        "projectName": "Xceleration.RSBusiness.IdentityServer.Contracts",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Duende.IdentityServer.Storage": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "MediatR.Contracts": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "RewardStation.Utility.KeyVault": {
+              "target": "Package",
+              "version": "[1.1.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\Xceleration.RSBusiness.IdentityServer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\Xceleration.RSBusiness.IdentityServer.Domain.csproj",
+        "projectName": "Xceleration.RSBusiness.IdentityServer.Domain",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\Xceleration.RSBusiness.IdentityServer.Domain.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj"
+              },
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Duende.IdentityServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Duende.IdentityServer.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Duende.IdentityServer.Storage": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RewardStation.Utility.KeyVault": {
+              "target": "Package",
+              "version": "[1.1.27, )"
+            },
+            "Sustainsys.Saml2.AspNetCore2": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\Xceleration.RSBusiness.IdentityServer.Stores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\Xceleration.RSBusiness.IdentityServer.Stores.csproj",
+        "projectName": "Xceleration.RSBusiness.IdentityServer.Stores",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\Xceleration.RSBusiness.IdentityServer.Stores.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Contracts\\Xceleration.RSBusiness.IdentityServer.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Duende.IdentityServer.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer\\Xceleration.RSBusiness.IdentityServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer\\Xceleration.RSBusiness.IdentityServer.csproj",
+        "projectName": "Xceleration.RSBusiness.IdentityServer",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer\\Xceleration.RSBusiness.IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj"
+              },
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\Xceleration.RSBusiness.IdentityServer.Domain.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Domain\\Xceleration.RSBusiness.IdentityServer.Domain.csproj"
+              },
+              "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\Xceleration.RSBusiness.IdentityServer.Stores.csproj": {
+                "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RSBusiness.IdentityServer.Repository\\Xceleration.RSBusiness.IdentityServer.Stores.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Azure.Extensions.AspNetCore.DataProtection.Blobs": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Azure.Extensions.AspNetCore.DataProtection.Keys": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Duende.IdentityServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Duende.IdentityServer.EntityFramework": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "RewardStation.Utility.KeyVault": {
+              "target": "Package",
+              "version": "[1.1.27, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

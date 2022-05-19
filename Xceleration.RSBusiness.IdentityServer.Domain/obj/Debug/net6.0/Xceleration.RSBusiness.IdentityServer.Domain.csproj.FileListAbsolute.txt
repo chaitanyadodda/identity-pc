@@ -1,0 +1,17 @@
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.deps.json
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.csproj.AssemblyReference.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.AssemblyInfoInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.AssemblyInfo.cs
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.csproj.CopyComplete
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\refint\Xceleration.RSBusiness.IdentityServer.Domain.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Domain.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Domain\obj\Debug\net6.0\ref\Xceleration.RSBusiness.IdentityServer.Domain.dll

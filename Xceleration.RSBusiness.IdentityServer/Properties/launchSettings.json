@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "SelfHost": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AzureCredentials__Secret": "rGM7Q~Tk~5sEN6OUZKapt_~psHr4eouX52uGv",
+        "AzureCredentials__ClientId": "22394f03-7c3d-47e9-ac18-841ec13277f7",
+        "AzureCredentials__Tenant": "e42f5128-dd72-4233-bac5-75a2ebd44495"
+      },
+      "applicationUrl": "https://localhost:5001"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  }
+}

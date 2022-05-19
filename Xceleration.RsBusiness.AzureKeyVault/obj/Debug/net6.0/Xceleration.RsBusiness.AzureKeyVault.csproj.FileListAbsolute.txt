@@ -1,0 +1,12 @@
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\bin\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.deps.json
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\bin\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\bin\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.csproj.AssemblyReference.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.AssemblyInfoInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.AssemblyInfo.cs
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.csproj.CoreCompileInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\refint\Xceleration.RsBusiness.AzureKeyVault.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\Xceleration.RsBusiness.AzureKeyVault.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RsBusiness.AzureKeyVault\obj\Debug\net6.0\ref\Xceleration.RsBusiness.AzureKeyVault.dll

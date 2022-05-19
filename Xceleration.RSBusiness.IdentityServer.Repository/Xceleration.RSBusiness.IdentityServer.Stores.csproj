@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+	  <Folder Include="DbContexts\" />
+	  <Folder Include="Extensions\" />
+	  <Folder Include="Profiles\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="11.0.1" />
+		<PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="6.0.4" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.4" />
+	</ItemGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Xceleration.RSBusiness.IdentityServer.Contracts\Xceleration.RSBusiness.IdentityServer.Contracts.csproj" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.deps.json
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.csproj.AssemblyReference.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.AssemblyInfoInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.AssemblyInfo.cs
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.csproj.CoreCompileInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.csproj.CopyComplete
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\refint\Xceleration.RSBusiness.IdentityServer.Stores.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Stores.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Repository\obj\Debug\net6.0\ref\Xceleration.RSBusiness.IdentityServer.Stores.dll

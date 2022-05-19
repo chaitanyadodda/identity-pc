@@ -1,0 +1,12 @@
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.deps.json
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\bin\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.csproj.AssemblyReference.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.AssemblyInfoInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.AssemblyInfo.cs
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\refint\Xceleration.RSBusiness.IdentityServer.Contracts.dll
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\Xceleration.RSBusiness.IdentityServer.Contracts.pdb
+C:\Users\kittu\Downloads\PeopleCart_IdentityServer\Source\Xceleration.RSBusiness.IdentityServer.Contracts\obj\Debug\net6.0\ref\Xceleration.RSBusiness.IdentityServer.Contracts.dll

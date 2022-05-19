@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj",
+        "projectName": "Xceleration.RsBusiness.AzureKeyVault",
+        "projectPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\Xceleration.RsBusiness.AzureKeyVault.csproj",
+        "packagesPath": "C:\\Users\\kittu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kittu\\Downloads\\PeopleCart_IdentityServer\\Source\\Xceleration.RsBusiness.AzureKeyVault\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kittu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pcnugetpkg.azurewebsites.net/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RewardStation.Utility.KeyVault": {
+              "target": "Package",
+              "version": "[1.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
